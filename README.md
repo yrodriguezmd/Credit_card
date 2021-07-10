@@ -80,4 +80,5 @@ The analyses were done in a Jupyter notebook, and utilizes the pandas, numpy, ma
     -  Logistic regression analysis showed that Attrition may be predicted by gender, number of dependents, number of products used, transaction count changes and account inactivity. At the 0.5 threshold, the accuracy of predicting attrition is 87&, with an AUC of 0.81.
     
 -->  Banks can do a qualification check that includes the above parameters to ascertain good customer retention and minimize churning
+
 -->  Customers who are male, with less dependents, with a high number of bank products used, with increased transaction activity and duration, and with infrequent contacts with the bank, are less liable to attrition.
