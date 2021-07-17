@@ -1,5 +1,7 @@
 
-# Analysis on Customer Profile, Utilization Rates and Attrition Rates among Credit Card Holders
+## Which customers chuck their credit cards? 
+
+### Analysis on Customer Profile, Utilization Rates and Attrition Rates among Credit Card Holders
 
 Author:  Maria Rodriguez
 
